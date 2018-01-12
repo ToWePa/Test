@@ -1,0 +1,19 @@
+{
+  "name": "sample_module",
+  "version": "1.0.0",
+  "description": "test of react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_react"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToWePa/Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ToWePa/Test/issues"
+  },
+  "homepage": "https://github.com/ToWePa/Test#readme"
+}
